@@ -20,6 +20,10 @@ asi tambien como te ayudara a no olvidar lo que ya sabes, Tu conocimiento crecer
 
 Creado por:
 
+
+-------------------   Equipo masterhacks   -------------------------
+
+
 Jose Angel Vazquez Torres 
 
 
