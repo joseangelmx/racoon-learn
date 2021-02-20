@@ -16,3 +16,16 @@ Racoon Learn es una aplicacion de aprendizaje basado en Inteligencia Artificial 
 Racoon Learn por medio de la inteligencia artificial es capaz de crear lecciones personalizadas basandose en tus aciertos y errores
 Las lecciones de Racoon Learn son mas parecidas a las de un juego donde puedes aprender a tu ritmo sabiendo que Racoon Learn te ayudara a aprender aquello que se te dificulte mas
 asi tambien como te ayudara a no olvidar lo que ya sabes, Tu conocimiento crecera rapidamente sin que tu lo notes.
+
+
+Creado por:
+
+Jose Angel Vazquez Torres 
+
+
+
+Karen Estefania Vilchis Ramirez
+
+
+
+Mayumi Rodriguez
