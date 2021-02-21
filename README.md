@@ -18,6 +18,15 @@ Las lecciones de Racoon Learn son mas parecidas a las de un juego donde puedes a
 asi tambien como te ayudara a no olvidar lo que ya sabes, Tu conocimiento crecera rapidamente sin que tu lo notes.
 
 
+Video Presentacion de Racoon Learn.
+
+https://www.powtoon.com/c/emV94sJoi5Z/1/m
+
+
+Prototipo del proyecto Racoon Learn.
+
+
+
 Creado por:
 
 
